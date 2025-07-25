@@ -1,0 +1,11 @@
+# Python
+*.pyc
+__pycache__/
+
+# Env & Secrets
+.env
+venv/
+*.sqlite3
+
+# VSCode
+.vscode/
